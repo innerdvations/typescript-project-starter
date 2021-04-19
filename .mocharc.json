@@ -1,0 +1,5 @@
+{
+    "extension": ["ts", "json", "js"],
+    "spec": ["tests/**/*.test.ts"],
+    "bail": true
+}
